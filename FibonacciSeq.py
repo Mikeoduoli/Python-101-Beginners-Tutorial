@@ -8,3 +8,5 @@ def checkFibonacci(number):
 
     return b == number
 
+checkFibonacci(24);
+checkFibonacci(8);
